@@ -1,0 +1,3 @@
+review_id,order_id,review_score,review_comment_title,review_comment_message,review_creation_date,review_answer_timestamp
+rev_1,ord_1,5,Great,Fast,2023-01-04,2023-01-05
+rev_2,ord_2,4,Good,Nice,2023-01-05,2023-01-06
