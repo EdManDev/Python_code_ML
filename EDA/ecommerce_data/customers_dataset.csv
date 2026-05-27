@@ -1,0 +1,3 @@
+customer_id,customer_unique_id,customer_zip_code_prefix,customer_city,customer_state
+cust_1,uniq_1,12345,New York,NY
+cust_2,uniq_2,67890,Los Angeles,CA
