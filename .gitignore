@@ -8,3 +8,10 @@ BAIVAFP/.env
 venv/
 ENV/
 env/
+
+# Large ML files (datasets and model checkpoints)
+*.pth
+*.tar.gz
+*.pkl
+*.h5
+*.hdf5
